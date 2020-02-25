@@ -10,4 +10,7 @@ class StaticPagesController < ApplicationController
 
   def segitseg
   end
+
+  def belepes
+  end
 end
